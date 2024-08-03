@@ -6,7 +6,7 @@ This project implements an API server using Django, Django REST Framework, and G
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/bank-data-api.git
+    git clone git@github.com:s4shantanu/Bank-API-servers.git
     cd bank-data-api
     ```
 
@@ -24,7 +24,7 @@ This project implements an API server using Django, Django REST Framework, and G
 4. **Create a new Django project and app:**
     ```bash
     django-admin startproject bank_data
-    cd bank_data
+    cd bankservers
     django-admin startapp branches
     ```
 
